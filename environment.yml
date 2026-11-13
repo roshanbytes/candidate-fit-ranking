@@ -1,0 +1,9 @@
+name: candidate-fit-ranking
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.13
+  - pip
+  - ipykernel
+  - pandas=3.1.1
